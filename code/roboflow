@@ -1,0 +1,89 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "ElijDTpzdanLtkb4mQam/qrRUKDnyBk4qIVaS3uZy"
+    ],
+    "camera": "INFINIX MOBILITY LIMITED Infinix X650",
+    "created": {
+        "_seconds": 1708111531,
+        "_nanoseconds": 528000000
+    },
+    "datasets": [
+        "ElijDTpzdanLtkb4mQam"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "67dc474d7e217c12fc25082c9a0a861e"
+    ],
+    "height": 2448,
+    "id": "pWyYL1fNwJxPSMVA94uV",
+    "label": [
+        "salmo"
+    ],
+    "labelClasses": [
+        "chicken"
+    ],
+    "labels": {
+        "chicken": [
+            "salmo"
+        ]
+    },
+    "metadata": {
+        "ExifVersion": "0220",
+        "ExposureProgram": "Undefined",
+        "ColorSpace": "1",
+        "PixelYDimension": "2448",
+        "DateTime": "2020:12:01 12:05:41",
+        "DateTimeOriginal": "2020:12:01 12:05:41",
+        "FlashpixVersion": "0100",
+        "YResolution": "72",
+        "SubSecTimeOriginal": "71",
+        "InteroperabilityIFDPointer": "918",
+        "WhiteBalance": "Auto white balance",
+        "ExposureMode": "0",
+        "ExposureTime": "0.041669",
+        "ExifIFDPointer": "414",
+        "YCbCrPositioning": "2",
+        "Flash": "Flash did not fire",
+        "SubSecTime": "71",
+        "FNumber": "2",
+        "PixelXDimension": "3264",
+        "ComponentsConfiguration": "YCbCr",
+        "PhotographicSensitivity": "257",
+        "Make": "INFINIX MOBILITY LIMITED",
+        "Orientation": "top-left",
+        "SubSecTimeDigitized": "71",
+        "DigitalZoomRatio": "1",
+        "DateTimeDigitized": "2020:12:01 12:05:41",
+        "XResolution": "72",
+        "FocalLength": "3.5",
+        "MeteringMode": "CenterWeightedAverage",
+        "Model": "Infinix X650",
+        "ExposureBias": "0",
+        "Software": "MediaTek Camera Application",
+        "ImageDescription": "",
+        "ResolutionUnit": "2",
+        "SceneCaptureType": "Standard",
+        "LightSource": "Other"
+    },
+    "name": "salmo-66.jpg",
+    "owner": "7xa5ZEvkrNYxNhmNKNjXrKl9moi2",
+    "projects": [
+        "ElijDTpzdanLtkb4mQam"
+    ],
+    "r": 0.0035676532769556026,
+    "split": "train",
+    "split.ElijDTpzdanLtkb4mQam": "train",
+    "tags": [
+        "ElijDTpzdanLtkb4mQam:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1708111531,
+        "_nanoseconds": 528000000
+    },
+    "updatedDate": "Feb 16, 2024",
+    "updatedTime": "10:25PM",
+    "updatedTimezone": "+03:00",
+    "uploader": "7xa5ZEvkrNYxNhmNKNjXrKl9moi2",
+    "width": 3264
+}
